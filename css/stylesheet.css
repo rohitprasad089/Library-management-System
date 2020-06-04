@@ -1,0 +1,25 @@
+.labels{
+    font-weight: bold;
+    font-variant: small-caps;
+   }
+.login-card:hover{
+    background-color:burlywood;
+}
+.gallery{
+    width:100%
+    overflow:none;
+}
+.gallery img:hover{
+    border: 4px solid gainsboro;
+    border-radius: 7px;
+    box-shadow: 5px 10px 35px 5px;
+    background-color: #383333;
+    cursor: pointer;
+}
+.about{
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 600;
+    color: indianred;
+    padding:10px;
+}
